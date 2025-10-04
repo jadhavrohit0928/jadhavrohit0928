@@ -1,7 +1,6 @@
 Hi there, I'm Rohit Jadhav 👋
 I'm a passionate developer currently exploring the world of .NET and cloud technologies. I enjoy building robust applications and learning new things every day.
 
-🔧 Technologies & Tools
 💻 Tech Stack
 <p align="left">
 <!-- Backend -->
@@ -25,7 +24,6 @@ I'm a passionate developer currently exploring the world of .NET and cloud techn
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" /></a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/githubactions-colored.svg" width="36" height="36" alt="GitHub Actions" /></a>
 
 <!-- OS & Scripting -->
