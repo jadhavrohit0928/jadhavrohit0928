@@ -50,5 +50,5 @@ I'm a passionate developer currently exploring the world of .NET and cloud techn
 
 ### 📫 How to Reach Me
 
-- **LinkedIn**: [Your LinkedIn Profile URL]
-- **Portfolio**: [Your Portfolio Website URL]
+- **LinkedIn**: [www.linkedin.com/in/rohit-jadhav-a46a77251]
+- **Portfolio**: (https://jadhavrohit0928.github.io/)
