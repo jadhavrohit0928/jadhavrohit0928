@@ -84,9 +84,10 @@ Software Engineering: Aptitude, Communication, and Project Methodologies
 📫 Let's Connect!
 <p align="center">
 <a href="[www.linkedin.com/in/rohit-jadhav-a46a77251]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a24a740f-aeef-4cab-909e-9204616608c3" alt="LinkedIn Badge"/>
 </a>
 <a href="[https://jadhavrohit0928.github.io/]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-255E63%3Fstyle%3Dfor-the-badge%26logo%3Dhyper%26logoColor%3Dwhite" alt="Portfolio Badge"/>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ace78a2f-2249-4d2a-ba9b-756ca601224c"
+ alt="Portfolio Badge"/>
 </a>
 </p>
