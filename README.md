@@ -101,21 +101,16 @@
   RESTful APIs with proper validation and layered architecture.
 
 ---
+📊 GitHub Stats
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jadhavrohit0928&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Djadhavrohit0928%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" height="180" alt="stats graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Djadhavrohit0928%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" height="180" alt="languages graph" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavrohit0928&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Djadhavrohit0928%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavrohit0928&theme=tokyonight" />
-</p>
-
+</div>
 ---
 
 ## 📫 Connect With Me
