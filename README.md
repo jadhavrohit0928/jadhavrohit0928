@@ -4,13 +4,19 @@
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-- 🎓 **CDAC Student** with a strong foundation in **Computer Science fundamentals**
-- 💡 Passionate about **Backend & Full Stack Development**
-- ⚙️ Hands-on experience with **Java, .NET, Web Technologies**
-- 🧠 Love solving problems and building **real-world, scalable applications**
-- 🚀 Actively preparing for **Software Developer roles**
+🎓 CDAC Student specializing in Enterprise Software Development, with a strong command of DSA & OOPs.
+
+💡 Passionate Full Stack Developer building scalable solutions using Java (Spring Boot) and .NET Core.
+
+⚙️ Proficient in modern web technologies including React, JavaScript, HTML5, Bootstrap & CSS3.
+
+☁️ Experienced in deploying applications using Docker & AWS for cloud-native development.
+
+🗄️ Skilled in designing efficient database schemas with MySQL & MongoDB.
+
+🚀 Actively seeking Software Developer opportunities to contribute to innovative engineering teams.
 
 ---
 
@@ -115,13 +121,13 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/rohit-jadhav-a46a77251">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:rohitjadhav0987@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/jadhavrohit0928">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
